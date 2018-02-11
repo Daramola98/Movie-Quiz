@@ -1,0 +1,13 @@
+.hidden{
+    display: none;
+}
+
+.options{
+    position: relative;
+    left: 200px;
+}
+
+.options-fix{
+    position: relative;
+    left:70px;
+}
